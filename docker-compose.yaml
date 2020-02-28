@@ -2,7 +2,7 @@ version: '3.5'
 services:
 # springboot
   springboot:
-    image: enomoto/springdatajpa:latest
+    image: jmerlos/springdatajpa:latest
     ports:
       - "8181:8181"
     restart: always
