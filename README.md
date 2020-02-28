@@ -9,7 +9,7 @@ This project shows how to use Spring Data JPA using MySQL or Oracle databases
 * `cd target`
 * `java -jar accessing-data-mysql-0.0.1-SNAPSHOT.jar`
 
-## MySQL
+## MySQL 
 
 Run the command bellow 
 
